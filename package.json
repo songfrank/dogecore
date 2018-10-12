@@ -73,7 +73,7 @@
     "binary": "=0.3.0",
     "step": "=0.0.4",
     "buffers": "=0.1.1",
-    "buffertools": "=2.1.2",
+    "buffertools": "*",
     "browserify": "=3.40.0",
     "browser-pack": "=2.0.1",
     "browserify-buffertools": "git://github.com/maraoz/browserify-buffertools.git",
