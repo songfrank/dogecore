@@ -69,7 +69,7 @@
     "elliptic": "=0.15.7",
     "bindings": "=1.1.1",
     "bufferput": "git://github.com/bitpay/node-bufferput.git",
-    "bignum": "=0.6.2",
+    "bignum": "=0.10.0",
     "binary": "=0.3.0",
     "step": "=0.0.4",
     "buffers": "=0.1.1",
